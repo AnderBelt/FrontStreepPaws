@@ -3,8 +3,7 @@ import Auth from "../components/auth";
 
 function loginFire(){
     return(
-        <div className="container">
-            <p>Usuario: </p>
+        <div>
             <Auth />
         </div>
     );
